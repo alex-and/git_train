@@ -1,4 +1,3 @@
 hi
 adsfa
 new line
-new string
