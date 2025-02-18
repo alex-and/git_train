@@ -3,3 +3,6 @@ def foo():
 hi
 adsfa
 new line
+def foo2(arg1, arg2=2):
+    list=[1,2,3,4,5]
+    return print(list)
